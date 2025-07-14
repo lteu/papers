@@ -4,6 +4,7 @@
 - LoRa https://arxiv.org/abs/2106.09685
 - ReAct https://huggingface.co/papers/2210.03629
 - Let's Verify Step by Step https://arxiv.org/abs/2305.20050
+- RLHF https://arxiv.org/abs/1909.08593
 
 - GRPO 
 - https://arxiv.org/pdf/2402.03300 paper
