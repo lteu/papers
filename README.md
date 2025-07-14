@@ -2,7 +2,8 @@
 - PPO https://arxiv.org/pdf/1707.06347
 - DPO PPO https://arxiv.org/pdf/2404.10719
 - LoRa https://arxiv.org/abs/2106.09685
-- ReAct https://huggingface.co/papers/2210.03629 
+- ReAct https://huggingface.co/papers/2210.03629
+- Let's Verify Step by Step https://arxiv.org/abs/2305.20050
 
 - GRPO 
 - https://arxiv.org/pdf/2402.03300 paper
