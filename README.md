@@ -29,7 +29,9 @@
 - LATS Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models https://arxiv.org/abs/2310.04406
 - LATS https://zhuanlan.zhihu.com/p/695071085
 - LATS AI大模型实战篇：LATS，可能是目前最强的AI Agent设计框架 https://www.sohu.com/a/810916803_211762
+- LLM+P: Empowering Large Language Models with Optimal Planning Proficiency https://arxiv.org/abs/2304.11477
 
+  
 ## GRPO 
 - https://arxiv.org/pdf/2402.03300 paper
 - https://verl.readthedocs.io/en/latest/algo/grpo.html
