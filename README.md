@@ -30,6 +30,7 @@
 - LATS https://zhuanlan.zhihu.com/p/695071085
 - LATS AI大模型实战篇：LATS，可能是目前最强的AI Agent设计框架 https://www.sohu.com/a/810916803_211762
 - LLM+P: Empowering Large Language Models with Optimal Planning Proficiency https://arxiv.org/abs/2304.11477
+- Manus Lessons learned https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus
 
   
 ## GRPO 
