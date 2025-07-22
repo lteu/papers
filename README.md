@@ -36,6 +36,12 @@
 - AutoAgents: A Framework for Automatic Agent Generation https://arxiv.org/pdf/2309.17288
 - AutoAgent: A Fully-Automated and Zero-Code Framework for LLM Agents
 - AutoAgent https://github.com/HKUDS/AutoAgent
+- AutoGPT Auto-GPT for Online Decision Making: Benchmarks and Additional Opinions https://arxiv.org/abs/2306.02224
+- AutoGPT https://autogpt.net/
+- AutoGPT https://github.com/Significant-Gravitas/AutoGPT
+- HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face https://arxiv.org/abs/2303.17580
+- JaVIS https://github.com/microsoft/JARVIS
+- XAgent XAgents: A Framework for Interpretable Rule-Based Multi-Agents Cooperation https://github.com/OpenBMB/XAgent | https://arxiv.org/abs/2411.13932
 
   
 ## GRPO 
