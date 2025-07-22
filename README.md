@@ -33,6 +33,10 @@
 - Manus Lessons learned https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus
 - WebGPT https://arxiv.org/abs/2112.09332
 - Reflexion: Reflexion: Language Agents with Verbal Reinforcement Learning https://arxiv.org/abs/2303.11366
+- AutoAgents: A Framework for Automatic Agent Generation https://arxiv.org/pdf/2309.17288
+- AutoAgent: A Fully-Automated and Zero-Code Framework for LLM Agents
+- AutoAgent https://github.com/HKUDS/AutoAgent
+
   
 ## GRPO 
 - https://arxiv.org/pdf/2402.03300 paper
