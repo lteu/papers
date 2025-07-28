@@ -42,6 +42,7 @@
 - HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face https://arxiv.org/abs/2303.17580
 - JaVIS https://github.com/microsoft/JARVIS
 - XAgent XAgents: A Framework for Interpretable Rule-Based Multi-Agents Cooperation https://github.com/OpenBMB/XAgent | https://arxiv.org/abs/2411.13932
+- ChatGPT Agent https://openai.com/it-IT/index/introducing-chatgpt-agent/
 
   
 ## GRPO 
