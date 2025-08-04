@@ -53,4 +53,7 @@
 - https://huggingface.co/docs/trl/main/grpo_trainer
 - https://huggingface.co/papers/2402.03300 - official
 
+
+Cheers!
+
 - nice parameter guide https://www.vellum.ai/llm-parameters/function-calling
