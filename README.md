@@ -44,6 +44,8 @@
 - XAgent XAgents: A Framework for Interpretable Rule-Based Multi-Agents Cooperation https://github.com/OpenBMB/XAgent | https://arxiv.org/abs/2411.13932
 - ChatGPT Agent https://openai.com/it-IT/index/introducing-chatgpt-agent/
 
+# Agent Demos
+langflow 实战例子 https://datastax.medium.com
   
 ## GRPO 
 - https://arxiv.org/pdf/2402.03300 paper
